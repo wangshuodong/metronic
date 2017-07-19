@@ -17,8 +17,6 @@
     <meta content="" name="description"/>
     <meta content="" name="author"/>
     <!-- BEGIN GLOBAL MANDATORY STYLES -->
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet"
-          type="text/css"/>
     <!--  font-awesome.min.css加载font-awesome 图标字体,http://fontawesome.dashgame.com/ -->
     <link href="../assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
     <!-- 图标字体 http://simplelineicons.com/ -->
@@ -41,5 +39,12 @@
     <!-- END 主题布局样式 -->
     <!-- 网页标签图标 -->
     <link rel="shortcut icon" href="favicon.ico"/>
+
+    <!-- BEGIN PAGE LEVEL PLUGINS -->
+    <link href="../assets/global/plugins/bootstrap-daterangepicker/daterangepicker.min.css" rel="stylesheet" type="text/css" />
+    <link href="../assets/global/plugins/morris/morris.css" rel="stylesheet" type="text/css" />
+    <link href="../assets/global/plugins/fullcalendar/fullcalendar.min.css" rel="stylesheet" type="text/css" />
+    <link href="../assets/global/plugins/jqvmap/jqvmap/jqvmap.css" rel="stylesheet" type="text/css" />
+    <!-- END PAGE LEVEL PLUGINS -->
 </head>
 <!-- END HEAD -->
