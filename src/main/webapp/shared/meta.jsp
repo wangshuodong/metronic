@@ -45,6 +45,7 @@
     <link href="../assets/global/plugins/morris/morris.css" rel="stylesheet" type="text/css" />
     <link href="../assets/global/plugins/fullcalendar/fullcalendar.min.css" rel="stylesheet" type="text/css" />
     <link href="../assets/global/plugins/jqvmap/jqvmap/jqvmap.css" rel="stylesheet" type="text/css" />
+    <link href="../assets/pages/css/profile.min.css" rel="stylesheet" type="text/css" />
     <!-- END PAGE LEVEL PLUGINS -->
 </head>
 <!-- END HEAD -->

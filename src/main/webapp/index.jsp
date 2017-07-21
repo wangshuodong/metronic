@@ -2,8 +2,12 @@
 <!DOCTYPE html>
 
 <%@ include file="shared/meta.jsp"%>
-
-<body class="page-header-fixed page-header-fixed-mobile page-sidebar-closed-hide-logo page-content-white">
+<!--
+page-header-fixed-mobile 手机页面固定顶部
+page-sidebar-closed 隐藏菜单栏
+page-container-bg-solid 背景颜色
+-->
+<body class="page-header-fixed page-header-fixed-mobile page-sidebar-closed-hide-logo page-content-white page-container-bg-solid">
     <!-- BEGIN HEADER 页面顶部 -->
     <%@ include file="shared/header.jsp"%>
     <!-- END HEADER 页面顶部 -->

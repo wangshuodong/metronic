@@ -67,4 +67,6 @@
 <script src="../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.germany.js" type="text/javascript"></script>
 <script src="../assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.usa.js" type="text/javascript"></script>
 <script src="../assets/global/plugins/jqvmap/jqvmap/data/jquery.vmap.sampledata.js" type="text/javascript"></script>
+<script src="../assets/pages/scripts/profile.min.js" type="text/javascript"></script>
+<script src="../assets/pages/scripts/timeline.min.js" type="text/javascript"></script>
 <!-- END PAGE LEVEL PLUGINS -->
